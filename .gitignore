@@ -1,0 +1,11 @@
+CMakeCache.txt
+libwrappermethods.so
+CMakeFiles
+CMakeFiles/*
+*.swp
+*/*.swp
+*/*/*.swp
+cmake_install.cmake
+Makefile
+.CMakeLists.txt.*
+
