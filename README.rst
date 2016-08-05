@@ -97,7 +97,7 @@ How it Works
     This code binds the **PyAPIWrapper::perform_api_action** method from the cpp implementation file `src/pyapi_wrapper.cpp#L14`_
 
     .. _src/pyapi_wrapper.cpp#L14: https://github.com/jay-johnson/python-that-runs-c-plus-plus/blob/master/src/pyapi_wrapper.cpp#L14
-    .. _headers/lib_pyapi_wrapper_ext.cpp#L25: https://github.com/jay-johnson/python-that-runs-c-plus-plus/blob/master/headers/pyapi_wrapper.h#L25
+    .. _src/pyapi_wrapper.cpp#L25: https://github.com/jay-johnson/python-that-runs-c-plus-plus/blob/master/src/pyapi_wrapper.cpp#L25
         
 
 Build Steps
