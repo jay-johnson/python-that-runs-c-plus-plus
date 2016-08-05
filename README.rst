@@ -176,7 +176,7 @@ Adding Custom Code
 
 #.  Add your own cpp files to the source list found in the `CMakeLists.txt`_
 
-.. _CMakeLists.txt: https://github.com/jay-johnson/python-that-runs-c-plus-plus/blob/master/CMakeLists.txt#L55
+    .. _CMakeLists.txt: https://github.com/jay-johnson/python-that-runs-c-plus-plus/blob/master/CMakeLists.txt#L55
 
 #.  Run ``cmake .``
 
